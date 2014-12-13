@@ -2,4 +2,5 @@ git is a  distributed version control system.
 git is free software under the GPL.
 suibiangai
 Git tracks changes.
-readme.txt on dev 
+readme.txt on dev
+Creating a new branch is quick
