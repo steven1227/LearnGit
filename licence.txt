@@ -1,2 +1,0 @@
-i am license
-Git tracks changes.

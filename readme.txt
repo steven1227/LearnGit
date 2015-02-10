@@ -1,7 +1,0 @@
-git is a  distributed version control system.
-git is a free software under the GPL.
-suibiangai
-Git tracks changes.
-readme.txt on dev 
-Creating a new branch is quick
-who are you>
